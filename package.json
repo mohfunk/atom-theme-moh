@@ -7,7 +7,7 @@
     "syntax",
     "theme"
   ],
-  "repository": "https://github.com/atom/moh-syntax",
+  "repository": "https://github.com/mohfunk/atom-theme-moh",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
